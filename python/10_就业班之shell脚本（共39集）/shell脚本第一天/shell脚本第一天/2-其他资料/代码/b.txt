@@ -1,0 +1,2 @@
+bash: dsddfdfd: command not found
+bash: cd: sdfgh: 没有那个文件或目录
